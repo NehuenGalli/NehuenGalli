@@ -37,12 +37,36 @@ Estas son las tecnologías con las que trabajo y sigo aprendiendo día a día:
 
 ### 🚀 Proyectos Destacados
 
-Estos son algunos de los desarrollos en los que he estado trabajando recientemente:
-    
+### 🎮 **GOG Store Clone (Frontend)**
+*Réplica de la interfaz de usuario de la tienda digital de videojuegos GOG.com.*
 
-* **Copia de Tienda de Juegos (GOG):**
-    * Proyecto académico replicando el frontend de una tienda digital utilizando **React**.
-    * * https://github.com/NehuenGalli/E-commerce-GOG * *
+* **El Desafío:** Desarrollar una SPA (Single Page Application) consumiendo una API REST para mostrar catálogos dinámicos.
+* **Tecnologías:** `React` `JavaScript` `CSS` `Rest API`
+* **Aprendizaje clave:** Manejo de componentes reutilizables, hooks y renderizado dinámico de productos.
+* 🔗 **[Ver Repositorio](https://github.com/NehuenGalli/E-commerce-GOG)**
+
+### 👻 **Epersgeist: Persistencia Multi-modelo**
+*Sistema orientado a la implementación de estrategias de persistencia complejas basado en un modelo de espíritus.*
+
+* **El Desafío:** Gestionar y almacenar información en múltiples tipos de bases de datos simultáneamente.
+* **Tecnologías:** `Java` `Spring` `Hibernate` `MySQL` `Neo4j` `MongoDB`
+* **Aprendizaje clave:** Exploración de capacidades de bases de datos relacionales, orientadas a grafos y documentales para elegir la herramienta adecuada según el objetivo.
+* 🔗 **[Ver Repositorio](https://github.com/NehuenGalli/backend-epersgeist)**
+
+### 🏨 **Sistema de Reservas (Java Core)**
+*Aplicación de backend centrada en la Programación Orientada a Objetos.*
+
+* **Descripción:** Sistema inicial para la gestión de alquileres y reservas de inmuebles. Enfocado en el diseño de clases robusto, herencia, polimorfismo y el manejo de patrones de diseño.
+* **Tecnología:** `Java` (POO pura)
+* **Nota:** Este proyecto sentó las bases lógicas para mis desarrollos web posteriores.
+* 🔗 **[Ver Repositorio](https://github.com/CrSa95/TrabajoFinal_POO2)**
+
+### 🧩 **Wordle Clone**
+*Recreación del popular juego de palabras.*
+
+* **Descripción:** Juego de lógica desarrollado para practicar manipulación del DOM y algoritmos de validación de strings en tiempo real.
+* **Tecnología:** `JavaScript` / `React`
+* 🔗 **[Ver Repositorio](https://github.com/NehuenGalli/Wordle)**
 
 ---
 
@@ -58,5 +82,5 @@ Estos son algunos de los desarrollos en los que he estado trabajando recientemen
 
 ¿Te interesa mi perfil o quieres hablar sobre algún proyecto? ¡Escríbeme!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] https://www.linkedin.com/in/nehuen-gallitelli-993117246/
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)] nehuengallijans@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehuen-gallitelli-993117246/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nehuengallijans@gmail.com)
