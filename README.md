@@ -37,6 +37,14 @@ Estas son las tecnologías con las que trabajo y sigo aprendiendo día a día:
 
 ### 🚀 Proyectos Destacados
 
+### 🚗 **RR Detail - Landing Page Comercial**
+*Sitio web oficial y optimizado para un negocio de estética vehicular.*
+
+* **El Desafío:** Diseñar y desarrollar una web profesional desde cero con galerías dinámicas, SEO técnico implementado, y gestión de despliegue en dominio propio.
+* **Tecnologías:** `HTML5` `CSS3` `JavaScript (Vanilla)` `Vercel`
+* 🔗 **[Ver web en vivo](https://rrdetail.com.ar/)**
+* 🔗 **[Ver Repositorio](https://github.com/NehuenGalli/rr-detail)**
+
 ### 🎮 **GOG Store Clone (Frontend)**
 *Réplica de la interfaz de usuario de la tienda digital de videojuegos GOG.com.*
 
