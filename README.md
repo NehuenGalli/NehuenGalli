@@ -51,6 +51,7 @@ Estas son las tecnologías con las que trabajo y sigo aprendiendo día a día:
 * **El Desafío:** Desarrollar una SPA (Single Page Application) consumiendo una API REST para mostrar catálogos dinámicos.
 * **Tecnologías:** `React` `JavaScript` `CSS` `Rest API`
 * **Aprendizaje clave:** Manejo de componentes reutilizables, hooks y renderizado dinámico de productos.
+* 🔗 **[Ver Demo en vivo](https://e-commerce-gog-web.onrender.com/)**
 * 🔗 **[Ver Repositorio](https://github.com/NehuenGalli/E-commerce-GOG)**
 
 ### 👻 **Epersgeist: Persistencia Multi-modelo**
