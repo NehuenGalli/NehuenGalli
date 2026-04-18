@@ -1,10 +1,10 @@
-# Hola, soy Nehuén Gallitelli 👋
+# Hola, soy Nehuen Gallitelli 👋
 
 ### Desarrollador Full Stack en formación | Estudiante de Licenciatura en Informática (UNQ)
 
-Soy un estudiante apasionado por la tecnología y el desarrollo de software, actualmente cursando la **Licenciatura en Informática** en la **Universidad Nacional de Quilmes**, donde estoy finalizando la tecnicatura.
+Soy estudiante del último año de la tecnicatura en la Universidad Nacional de Quilmes. Cuento con experiencia desarrollando e implementando soluciones web end-to-end de manera independiente para clientes reales.
 
-Mi objetivo es conseguir mi **primera experiencia profesional** en el mundo IT. Me especializo en el desarrollo web, con una base sólida tanto en el Frontend como en el Backend, y disfruto creando soluciones prácticas y eficientes.
+Mi objetivo actual es dar un salto del trabajo freelance a un equipo de desarrollo consolidado. Busco integrarme a un entorno profesional donde pueda aplicar mi capacidad de resolución y autonomía desde el primer día, aportando valor tanto en la optimización de sistemas existentes como en el desarrollo de nuevas arquitecturas.
 
 ---
 
