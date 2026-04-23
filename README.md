@@ -6,6 +6,8 @@ Soy estudiante del último año de la tecnicatura en la Universidad Nacional de 
 
 Mi objetivo actual es dar un salto del trabajo freelance a un equipo de desarrollo consolidado. Busco integrarme a un entorno profesional donde pueda aplicar mi capacidad de resolución y autonomía desde el primer día, aportando valor tanto en la optimización de sistemas existentes como en el desarrollo de nuevas arquitecturas.
 
+**Visita mi portafolio web:** [Portafolio Nehuen Gallitelli](https://portafolio-nehuen-gallitelli.vercel.app/)
+
 ---
 
 ### 🛠️ Tech Stack
