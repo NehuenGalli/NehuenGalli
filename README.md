@@ -55,7 +55,7 @@ Estas son las tecnologías con las que trabajo y sigo aprendiendo día a día:
 * **Aprendizaje clave:** Exploración de capacidades de bases de datos relacionales, orientadas a grafos y documentales para elegir la herramienta adecuada según el objetivo.
 * 🔗 **[Ver Repositorio](https://github.com/NehuenGalli/backend-epersgeist)**
 
-### 🏨 **Sistema de Reservas (Java Core)**
+### 🏨 **Sistema de Reservas (Java)**
 *Aplicación de backend centrada en la Programación Orientada a Objetos.*
 
 * **Descripción:** Sistema inicial para la gestión de alquileres y reservas de inmuebles. Enfocado en el diseño de clases robusto, herencia, polimorfismo y el manejo de patrones de diseño.
